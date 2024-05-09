@@ -1,1 +1,1 @@
-# 10.Hafta
+#sql practices from zero to advanced

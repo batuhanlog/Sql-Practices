@@ -1,1 +1,1 @@
-#sql practices from zero to advanced
+sql practices from zero to advanced
